@@ -1,3 +1,3 @@
-# dn_dbn
+# DEPRECATED - no longer actively maintained
 
-    DN and DBN is for finlchain version 1 only. This repository was deprecated.
+    DN and DBN is for finlchain version 1 only. This repository was DEPRECATED.
